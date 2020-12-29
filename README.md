@@ -1,4 +1,4 @@
-# sm3.js (https://github.com/sandmanhome/sm3.js)
+# sm3.js
 
 ## Install
 
